@@ -1,0 +1,13 @@
+# Ignore environment files and sensitive data
+.env
+.env.*
+.vscode/
+memory/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+.idea/
+.vscode/
+*.log
